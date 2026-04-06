@@ -7,6 +7,14 @@ omniASR_LLM_Unlimited_7B_v2,dag_Latn,Common_Voice_25_0,0.27779702112919985,0.076
 omniASR_LLM_Unlimited_7B_v2,mos_Latn,Moore_Speech_Corpora,0.29511728099569173,0.10563895473034267
 omniASR_LLM_Unlimited_7B_v2,fuv_Latn,Omni_Corpus,0.5385342383366268,0.22641411340634965
 omniASR_LLM_Unlimited_7B_v2,snk_Latn,Omni_Corpus,0.5462865188313974,0.15724662206138867
+omniASR_LLM_Unlimited_3B_v2,fuv_Latn,Fleurs,0.5236,0.1848
+omniASR_LLM_Unlimited_3B_v2,fuq_Latn,Omni_Corpus,0.7998,0.3821
+omniASR_LLM_Unlimited_3B_v2,ewe_Latn,Waxal,0.5003,0.1689
+omniASR_LLM_Unlimited_3B_v2,dag_Latn,Waxal,0.814,0.3632
+omniASR_LLM_Unlimited_3B_v2,dag_Latn,Common_Voice_25_0,0.3367,0.096
+omniASR_LLM_Unlimited_3B_v2,mos_Latn,Moore_Speech_Corpora,0.3766,0.1481
+omniASR_LLM_Unlimited_3B_v2,fuv_Latn,Omni_Corpus,0.5592,0.2393
+omniASR_LLM_Unlimited_3B_v2,snk_Latn,Omni_Corpus,0.5926,0.1795
 MMS,ewe_Latn,Waxal,0.50352392139433,0.1536818468110743
 MMS,mos_Latn,Moore_Speech_Corpora,0.43752991862134993,0.14619729025839112
 Simba-S,ewe_Latn,Waxal,1.1310676529413632,0.5111763014486403
